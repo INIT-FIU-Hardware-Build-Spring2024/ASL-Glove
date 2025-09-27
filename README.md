@@ -20,5 +20,5 @@ A **wearable glove** that recognizes **American Sign Language (ASL) gestures** u
 ### 1️⃣ Install Arduino IDE  
 🔗 [Download Arduino IDE](https://www.arduino.cc/en/software)  
 
-📜 License
+📜 License.
 📄 MIT License – Open-source and free to use.
